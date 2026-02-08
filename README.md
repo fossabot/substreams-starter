@@ -8,6 +8,7 @@ Your first 60h/month are free!
 </td><td>
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/streamingfast/substreams-starter?machine=standardLinux32gb)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsubstreams-starter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsubstreams-starter?ref=badge_shield)
 </td></tr></table>
 
 > This will open a fully featured **Devcontainer-based** development environment, using [GitHub Codespaces](https://github.com/features/codespaces).
@@ -66,3 +67,7 @@ If you prefer, you can install all components locally by following our [installa
 - Pre-configured VSCode extensions for everything, plus a custom _VSCode Substreams Extension_.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsubstreams-starter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsubstreams-starter?ref=badge_large)
